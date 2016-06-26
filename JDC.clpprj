@@ -1,92 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="C:\Web\JDC\JDC.clpprj">
-	<settings><PM_URL><![CDATA[http://localhost/JDC/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/JDC/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[johndefoorconsulting]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:1]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	<settings><PM_URL><![CDATA[http://localhost/JDC/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/JDC/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[johndefoorconsulting]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:1]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\Web\JDC\JDC.stylesheet.2.css;C:\Web\JDC\index.2.html;"/><added value=""/><lastopfiles>
+		<file name="C:\Web\JDC\index.html"/>
 		<file name="C:\Web\JDC\JDC.stylesheet.css"/>
+		<file name="C:\Web\JDC\about\contact.html"/>
+		<file name="C:\Web\JDC\about\faq.html"/>
+		<file name="C:\Web\JDC\about\services.html"/>
+		<file name="C:\Web\JDC\about\about.html"/>
 	</lastopfiles>
 	<errors version="5.3">
 		<errfile name="C:\Web\JDC\about\contact.html">
-			<error val="7;39;32;39;2002;1;"/>
+			<error val="7;40;32;40;2002;1;"/>
 		</errfile>
 	</errors>
 	<codestructure version="5.8">
 		<phptree>
 		</phptree>
 		<jstree>
-			<treenode node="changePosition;JS:Function Name;C:\Web\JDC\about\services.html;f0;147;1;154;;;;vpos;;v;;r;;d30,147;;b0,0;;mlink;;p">
-				<treenode node="link;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;147;28;147;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="changePosition;JS:Function Name;C:\Web\JDC\about\services.html;f0;150;1;157;;;;vpos;;v;;r;;d30,150;;b0,0;;mlink;;p">
+				<treenode node="link;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;150;28;150;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="position;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;148;16;148;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="position;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;151;16;151;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="transformProperty;JS:JS Var Name;C:\Web\JDC\about\services.html;f18;151;35;151;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="transformProperty;JS:JS Var Name;C:\Web\JDC\about\services.html;f18;154;35;154;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="translateValue;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;150;22;150;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="translateValue;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;153;22;153;;;;vposString;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="wrapper;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;151;11;151;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-			</treenode>
-			<treenode node="closeNav;JS:Function Name;C:\Web\JDC\index.2.html;f0;56;1;59;;C:\Web\JDC\about\about.html;f0;50;1;53;;C:\Web\JDC\about\faq.html;f0;53;1;56;;C:\Web\JDC\about\services.html;f0;106;1;109;;C:\Web\JDC\about\contact.html;f0;55;1;58;;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f0;50;1;53;;C:\Web\JDC\index.html;f0;49;1;52;;;;vpos;;v;;r;;d20,49;;b0,0;;m">
-				<treenode node="document;JS:JS Var Name;C:\Web\JDC\index.2.html;f4;57;12;57;;C:\Web\JDC\about\about.html;f4;51;12;51;;C:\Web\JDC\about\faq.html;f4;54;12;54;;C:\Web\JDC\about\services.html;f4;107;12;107;;C:\Web\JDC\about\contact.html;f4;56;12;56;;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f4;51;12;51;;C:\Web\JDC\index.html;f4;50;12;50;;C:\Web\JDC\index.html;f4;50;12;50;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="wrapper;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;154;11;154;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="getSupportedPropertyName;JS:Function Name;C:\Web\JDC\about\services.html;f0;168;1;175;;;;vpos;;v;;r;;d46,168;;b0,0;;mproperties;;p">
-				<treenode node="document;JS:JS Var Name;C:\Web\JDC\about\services.html;f19;170;27;170;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-				<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f13;169;14;169;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-				<treenode node="properties;JS:JS Var Name;C:\Web\JDC\about\services.html;f34;168;44;168;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="closeNav;JS:Function Name;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f0;50;1;53;;C:\Web\JDC\about\faq.html;f0;55;1;58;;C:\Web\JDC\about\contact.html;f0;58;1;61;;C:\Web\JDC\about\about.html;f0;54;1;57;;C:\Web\JDC\about\services.html;f0;109;1;112;;C:\Web\JDC\index.html;f0;50;1;53;;;;vpos;;v;;r;;d20,50;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f4;51;12;51;;C:\Web\JDC\about\faq.html;f4;56;12;56;;C:\Web\JDC\about\contact.html;f4;59;12;59;;C:\Web\JDC\about\about.html;f4;55;12;55;;C:\Web\JDC\about\services.html;f4;110;12;110;;C:\Web\JDC\index.html;f4;53;12;53;;C:\Web\JDC\index.html;f4;51;12;51;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="openNav;JS:Function Name;C:\Web\JDC\index.2.html;f0;51;1;54;;C:\Web\JDC\about\about.html;f0;45;1;48;;C:\Web\JDC\about\faq.html;f0;48;1;51;;C:\Web\JDC\about\services.html;f0;101;1;104;;C:\Web\JDC\about\contact.html;f0;50;1;53;;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f0;45;1;48;;C:\Web\JDC\index.html;f0;44;1;47;;;;vpos;;v;;r;;d19,44;;b0,0;;m">
-				<treenode node="document;JS:JS Var Name;C:\Web\JDC\index.2.html;f4;52;12;52;;C:\Web\JDC\about\about.html;f4;46;12;46;;C:\Web\JDC\about\faq.html;f4;49;12;49;;C:\Web\JDC\about\services.html;f4;102;12;102;;C:\Web\JDC\about\contact.html;f4;51;12;51;;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f4;46;12;46;;C:\Web\JDC\index.html;f4;45;12;45;;C:\Web\JDC\index.html;f4;45;12;45;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="getSupportedPropertyName;JS:Function Name;C:\Web\JDC\about\services.html;f0;171;1;178;;;;vpos;;v;;r;;d46,171;;b0,0;;mproperties;;p">
+				<treenode node="document;JS:JS Var Name;C:\Web\JDC\about\services.html;f19;173;27;173;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f13;172;14;172;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="properties;JS:JS Var Name;C:\Web\JDC\about\services.html;f34;171;44;171;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="removeActiveLinks;JS:Function Name;C:\Web\JDC\about\services.html;f0;139;1;143;;;;vpos;;v;;r;;d29,139;;b0,0;;m">
-				<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f13;140;14;140;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-				<treenode node="links;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;140;29;140;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="openNav;JS:Function Name;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f0;45;1;48;;C:\Web\JDC\about\faq.html;f0;50;1;53;;C:\Web\JDC\about\contact.html;f0;53;1;56;;C:\Web\JDC\about\about.html;f0;49;1;52;;C:\Web\JDC\about\services.html;f0;104;1;107;;C:\Web\JDC\index.html;f0;45;1;48;;;;vpos;;v;;r;;d19,45;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;C:\Users\Laura\Desktop\johndefoorconsulting\public\johndefoorconsulting.com\public\index.html;f4;46;12;46;;C:\Web\JDC\about\faq.html;f4;51;12;51;;C:\Web\JDC\about\contact.html;f4;54;12;54;;C:\Web\JDC\about\about.html;f4;50;12;50;;C:\Web\JDC\about\services.html;f4;105;12;105;;C:\Web\JDC\index.html;f4;48;12;48;;C:\Web\JDC\index.html;f4;46;12;46;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="setClickedItem;JS:Function Name;C:\Web\JDC\about\services.html;f0;130;1;137;;;;vpos;;v;;r;;d27,130;;b0,0;;me;;p">
-				<treenode node="activeLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;134;14;134;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="removeActiveLinks;JS:Function Name;C:\Web\JDC\about\services.html;f0;142;1;146;;;;vpos;;v;;r;;d29,142;;b0,0;;m">
+				<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f13;143;14;143;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
-				<treenode node="clickedLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;133;19;133;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-				<treenode node="e;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;130;25;130;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="links;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;143;29;143;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="activeLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;116;14;116;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="setClickedItem;JS:Function Name;C:\Web\JDC\about\services.html;f0;133;1;140;;;;vpos;;v;;r;;d27,133;;b0,0;;me;;p">
+				<treenode node="activeLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;137;14;137;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="clickedLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;136;19;136;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="e;JS:JS Var Name;C:\Web\JDC\about\services.html;f24;133;25;133;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
 			</treenode>
-			<treenode node="document;JS:JS Var Name;C:\Web\JDC\about\services.html;f12;112;20;112;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="activeLink;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;119;14;119;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f9;119;10;119;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="document;JS:JS Var Name;C:\Web\JDC\about\services.html;f12;115;20;115;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="link;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;120;12;120;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="i;JS:JS Var Name;C:\Web\JDC\about\services.html;f9;122;10;122;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="links;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;112;9;112;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="link;JS:JS Var Name;C:\Web\JDC\about\services.html;f8;123;12;123;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="transformProperty;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;165;21;165;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="links;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;115;9;115;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="transforms;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;159;14;159;;;;vposArray;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="transformProperty;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;168;21;168;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
-			<treenode node="wrapper;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;113;11;113;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			<treenode node="transforms;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;162;14;162;;;;vposArray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="wrapper;JS:JS Var Name;C:\Web\JDC\about\services.html;f4;116;11;116;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 		</jstree>
 		<scsstree>
 		</scsstree>
 		<lesstree>
 		</lesstree>
-	</codestructure><cakedata>
-	</cakedata>
-	<dplmenupath>
-	</dplmenupath><laravael>
-	</laravael><smartyassings>
-	</smartyassings><twigtemplate>
-	</twigtemplate><yiidata>
-	</yiidata>
-	<todoblock>
+	</codestructure><todoblock>
 	</todoblock>
 	<filescache>
 		<file name="C:\Web\JDC\JDC.stylesheet.css" crc="1465164557"/>
-		<file name="C:\Web\JDC\JDC.stylesheet.2.css" crc="1464642328"/>
 	</filescache>
 </project>
