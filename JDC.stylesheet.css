@@ -34,31 +34,40 @@ body{
     
     
         }
-        
+   
+
+#mySidenav{
+ 		margin-bottom: 80px;
+}    
 #tablecontainer{
 	display: table;
+	margin-top: 145px;
+	margin-bottom: 80px;	
+    transition: margin-left .5s;
+
 }       
  
 #tablerow{
 	display: table-row;
 }
 
-#mySidenav{
+#menu{
 	display: table-cell;
-}
-
+	padding-right: 8px;
+} 
 #midcolr1 {
 	display: table-cell;
-}
-#main {
-	display: table-cell;
+	width: 200px;
 }
 
- #main{
- 		margin-top: 145px;
- 		margin-bottom: 80px;
- 		 }       
- td{
+#main {
+	display: table-cell;
+	padding-left: 10px; 
+	vertical-align: top;
+	background-color: #cecece;
+}
+       
+ //*td{
  	height:600px;
  }
  
@@ -78,15 +87,16 @@ table{
  }
  
  #main {
-    transition: margin-left .5s;
+    transition: margin-left .5s;}
     /*padding:5px;*/
-}
+ *//
 
 .footer {
   position: absolute;
   left:0px;
    bottom:0px;
-   width:100%;height: 75px;
+   width:100%;
+   height: 75px;
      /* everything before this 
    makes footer stay at bottom 
    (even when scrolling). 
