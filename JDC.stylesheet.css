@@ -37,11 +37,12 @@ body{
    
 
 #mySidenav{
+		margin-top: 10px;
  		margin-bottom: 80px;
 }    
 #tablecontainer{
 	display: table;
-	margin-top: 145px;	
+	margin-top: 135px;	
     transition: margin-left .5s;
     border-spacing: 10px;
 }       
@@ -52,10 +53,12 @@ body{
 
 #menu{
 	display: table-cell;
+	vertical-align: top;
 } 
 #midcolr1 {
 	display: table-cell;
-	width: 200px;
+	width: 250px;
+	vertical-align: top;
 }
 
 #main {
@@ -63,11 +66,12 @@ body{
 	padding-left: 10px; 
 	vertical-align: top;
 	background-color: #cecece;
+	width: 1000px;
 }
 
 footer {
 	position: absolute;
-   	width:100%;
+	width:100%;
    	height: 75px;
      /* everything before this 
    makes footer stay at bottom 
