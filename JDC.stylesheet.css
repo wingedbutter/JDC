@@ -115,7 +115,7 @@ a:active {
 }
 
 .sidenav {
-    height: 350px;
+    height: 300px;
     width: 0;
     position: absolute;
     z-index: 1;
