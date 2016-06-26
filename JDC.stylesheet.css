@@ -34,6 +34,26 @@ body{
     
     
         }
+        
+#tablecontainer{
+	display: table;
+}       
+ 
+#tablerow{
+	display: table-row;
+}
+
+#mySidenav{
+	display: table-cell;
+}
+
+#midcolr1 {
+	display: table-cell;
+}
+#main {
+	display: table-cell;
+}
+
  #main{
  		margin-top: 145px;
  		margin-bottom: 80px;
