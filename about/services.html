@@ -8,8 +8,6 @@
 	
 	
 <body>
-	<div id="table container">
-		<div id="table row">
 
 <div id="mySidenav" class="sidenav">
   <a href="#" class="closebtn" onclick="closeNav()">&#10006</a>
@@ -20,25 +18,29 @@
   <a href="contact.html">Contact</a>			
 </div>
 
-<header class="header">
-
-	<p id="name"><a href="../index.html">John DeFoor Consulting
+	<header class="header">
+		<p id="name"><a href="../index.html">John DeFoor Consulting
 	</a></p>
-		</header>
+	</header>
 			
-<div id="main">
+	<div id="tablecontainer">
+		<div id="tablerow">
 
-<table style="width:100%">
-
-	<tr>
+	<div id="menu">
 	
-		
-	<td class="lefttable" style="color:#00173c; vertical-align:top"><span style="font-size: 25px" >
-<b>Menu</b></span><br><span  style="font-size:50px;cursor:pointer" onclick="openNav()" class="button">&#9776</span>
+		<span style="font-size: 25px" ><b>Menu</b>
+		</span><br><span  style="font-size:50px;cursor:pointer" onclick="openNav()" class="button">&#9776</span>
+	</div>
+	
+	<div id="midcolr1"></div>
+	
+	<div id="main" style="background-color: #a7bbc0">
+	
+		<td  style="padding-left: 10px; vertical-align:top; color: #00173c">
+			<span style="font-size: 25px">
+			<b>Services</b></span>
 		</td>
-		<td class="middle"></td>
-		<td  style="padding-left: 10px; vertical-align:top; color: #00173c"><span style="font-size: 25px" >
-<b>Services</b></span>
+		
 			<div id="contentContainer">
     			<div id="wrapper" style="color: #cecece"> 
         			<div id="itemOne" class="content">
@@ -93,10 +95,7 @@
     </ul>
 </div>
 
-		 
-		</td>
-	</tr>
-</table>
+		
 		</div>
 	</div>
 </div>	
@@ -104,12 +103,12 @@
 <script>
 function openNav() {
     document.getElementById("mySidenav").style.width = "250px";
-    document.getElementById("main").style.marginLeft = "250px";
+    document.getElementById("tablecontainer").style.marginLeft = "250px";
 }
 
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
-    document.getElementById("main").style.marginLeft = "0px";
+    document.getElementById("tablecontainer").style.marginLeft = "0px";
 }
 
 // just querying the DOM...like a boss!

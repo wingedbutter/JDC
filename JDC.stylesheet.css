@@ -45,10 +45,12 @@ body{
 	margin-top: 135px;	
     transition: margin-left .5s;
     border-spacing: 10px;
+    min-height: 550px;
 }       
  
 #tablerow{
 	display: table-row;
+
 }
 
 #menu{
@@ -59,7 +61,8 @@ body{
 	display: table-cell;
 	width: 250px;
 	vertical-align: top;
-}
+	text-align: center;
+	}
 
 #main {
 	display: table-cell;
@@ -68,6 +71,7 @@ body{
 	background-color: #cecece;
 	width: 1000px;
 }
+
 
 footer {
 	position: absolute;
