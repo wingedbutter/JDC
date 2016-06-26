@@ -41,10 +41,9 @@ body{
 }    
 #tablecontainer{
 	display: table;
-	margin-top: 145px;
-	margin-bottom: 80px;	
+	margin-top: 145px;	
     transition: margin-left .5s;
-
+    border-spacing: 10px;
 }       
  
 #tablerow{
@@ -53,7 +52,6 @@ body{
 
 #menu{
 	display: table-cell;
-	padding-right: 8px;
 } 
 #midcolr1 {
 	display: table-cell;
@@ -66,37 +64,11 @@ body{
 	vertical-align: top;
 	background-color: #cecece;
 }
-       
- //*td{
- 	height:600px;
- }
- 
-table{
-	width: 100%;
-}
- .lefttable{
- 	width: 50px;
- }
- .middle {
- 	width: 200px;
- 	vertical-align: top; 	
- }
- 
- .righttable{
- 	background-color: #cecece;
- }
- 
- #main {
-    transition: margin-left .5s;}
-    /*padding:5px;*/
- *//
 
-.footer {
-  position: absolute;
-  left:0px;
-   bottom:0px;
-   width:100%;
-   height: 75px;
+footer {
+	position: absolute;
+   	width:100%;
+   	height: 75px;
      /* everything before this 
    makes footer stay at bottom 
    (even when scrolling). 
@@ -104,7 +76,7 @@ table{
    --needs html code position
    and min-height and body info at top as well */   
    background-color: #00173c;
-   text-align: center;
+ 	text-align: center;
    color: #cecece;
    text-shadow:
     -1px -1px 0 #000000 ,
@@ -112,8 +84,7 @@ table{
     -1px 1px 0 #000000 ,
     1px 1px 0 #000000 ;
       }          
-       
-       
+      
 
 a:link {
 	text-decoration: none;
